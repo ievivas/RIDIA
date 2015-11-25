@@ -2,6 +2,7 @@
 
 ### Real-time Image Display Application for the Jürgen Stock Telescope of Venezuelan National Astronomical Observatory ###
 
+![RIDIA GUI](https://github.com/ievivas/RIDIA/blob/master/docs/snapshot1.png?raw=true)
 
 
 **ABSTRACT**
@@ -10,4 +11,16 @@ RIDIA (formerly called RIDIC) displays in real time images captured by digital e
 
 For more information about RIDIA, please read this document:
 
+- [https://github.com/ievivas/RIDIA/blob/master/docs/RIDICpaper_IvanVivas.pdf](https://github.com/ievivas/RIDIA/blob/master/docs/RIDICpaper_IvanVivas.pdf "RIDIA paper")
 
+- [https://github.com/ievivas/RIDIA/blob/master/docs/RIDIAarticulo_espa%C3%B1ol.pdf](https://github.com/ievivas/RIDIA/blob/master/docs/RIDIAarticulo_espa%C3%B1ol.pdf "RIDIA paper spanish")
+
+
+
+
+**Desarrollado por:**
+
+Iván Vivas
+ivanvivas@gmail.com
+
+![Qt Ambassador](https://github.com/ievivas/RIDIA/blob/master/docs/qt_ambassador_logo.png?raw=true)
