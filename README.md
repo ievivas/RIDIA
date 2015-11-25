@@ -15,6 +15,8 @@ For more information about RIDIA, please read this document:
 
 - [https://github.com/ievivas/RIDIA/blob/master/docs/RIDIAarticulo_espa%C3%B1ol.pdf](https://github.com/ievivas/RIDIA/blob/master/docs/RIDIAarticulo_espa%C3%B1ol.pdf "RIDIA paper spanish")
 
+**Video Demo: **
+[https://www.youtube.com/watch?v=A5WryrM2NAk](https://www.youtube.com/watch?v=A5WryrM2NAk "Video Demo")
 
 
 
