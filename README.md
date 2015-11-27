@@ -11,18 +11,22 @@ RIDIA (formerly called RIDIC) displays in real time images captured by digital e
 
 For more information about RIDIA, please read this document:
 
-- [https://github.com/ievivas/RIDIA/blob/master/docs/RIDICpaper_IvanVivas.pdf](https://github.com/ievivas/RIDIA/blob/master/docs/RIDICpaper_IvanVivas.pdf "RIDIA paper")
+- [RIDIA Paper](https://github.com/ievivas/RIDIA/blob/master/docs/RIDICpaper_IvanVivas.pdf "RIDIA paper")
 
-- [https://github.com/ievivas/RIDIA/blob/master/docs/RIDIAarticulo_espa%C3%B1ol.pdf](https://github.com/ievivas/RIDIA/blob/master/docs/RIDIAarticulo_espa%C3%B1ol.pdf "RIDIA paper spanish")
+- [Artículo en español](https://github.com/ievivas/RIDIA/blob/master/docs/RIDIAarticulo_espa%C3%B1ol.pdf "RIDIA paper spanish")
 
-**Video Demo: **
+**Video Demo:**
 [https://www.youtube.com/watch?v=A5WryrM2NAk](https://www.youtube.com/watch?v=A5WryrM2NAk "Video Demo")
 
 
 
 **Desarrollado por:**
 
-Iván Vivas
+Iván Vivas:
 ivanvivas@gmail.com
+
+**Para:**
+
+[Centro de Investigaciones de Astronomía](http://www.cida.gob.ve/cida_home/ "CIDA")
 
 ![Qt Ambassador](https://github.com/ievivas/RIDIA/blob/master/docs/qt_ambassador_logo.png?raw=true)
